@@ -1,1 +1,3 @@
 raspberrypi-net-mods = 1.0-1
+raspberrypi-sys-mods = 20161220
+raspberrypi-ui-mods = 1.20161206
